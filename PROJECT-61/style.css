@@ -1,0 +1,82 @@
+body
+{
+  text-align: center;
+  background: liner-gradient(#E1BEE7 0%, #90CAF9 100%);
+  background-repeat: no-repeat;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+l1
+{
+    float: left;
+    display: block;
+}
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+link:hover
+{
+    background-color: #111;
+}
+h1
+{
+  text-shadow: 2px 2px #F8BBD0;
+  font-size: 20;
+}
+img
+{
+  border-radius: 50%;
+  width: 800px;
+}
+p
+{
+  font-size: 20px;
+  color: blue;
+}
+#about
+{
+    font-family: monospace
+    text-shadow: 50%
+    color: crimson;
+}
+#lanuages
+{
+    font-family: inherit;
+}
+#mywork
+{
+  font-family: cursive
+    text-shadow: 50%
+    color: crimson;
+}
+#inspiration
+{
+   font-family: sans-serif;
+    text-shadow: 50%
+    color: crimson;
+}
+#contact
+{
+    font-family: serif
+    text-shadow: 50%
+    color: crimson;
+}
+        
+
+    
+html
+{
+    scroll-behavior: smooth;
+}
+
